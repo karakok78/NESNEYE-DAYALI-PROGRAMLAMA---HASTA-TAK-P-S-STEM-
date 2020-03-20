@@ -1,0 +1,11 @@
+C:\Users\Tunahan\Desktop\NDP\NDP\bin\Debug\netcoreapp3.1\NDP.exe
+C:\Users\Tunahan\Desktop\NDP\NDP\bin\Debug\netcoreapp3.1\NDP.deps.json
+C:\Users\Tunahan\Desktop\NDP\NDP\bin\Debug\netcoreapp3.1\NDP.runtimeconfig.json
+C:\Users\Tunahan\Desktop\NDP\NDP\bin\Debug\netcoreapp3.1\NDP.runtimeconfig.dev.json
+C:\Users\Tunahan\Desktop\NDP\NDP\bin\Debug\netcoreapp3.1\NDP.dll
+C:\Users\Tunahan\Desktop\NDP\NDP\bin\Debug\netcoreapp3.1\NDP.pdb
+C:\Users\Tunahan\Desktop\NDP\NDP\obj\Debug\netcoreapp3.1\NDP.csprojAssemblyReference.cache
+C:\Users\Tunahan\Desktop\NDP\NDP\obj\Debug\netcoreapp3.1\NDP.AssemblyInfoInputs.cache
+C:\Users\Tunahan\Desktop\NDP\NDP\obj\Debug\netcoreapp3.1\NDP.AssemblyInfo.cs
+C:\Users\Tunahan\Desktop\NDP\NDP\obj\Debug\netcoreapp3.1\NDP.dll
+C:\Users\Tunahan\Desktop\NDP\NDP\obj\Debug\netcoreapp3.1\NDP.pdb
